@@ -1,0 +1,2 @@
+select nauticalcustomerid, firstname, MiddleInitial, lastname, email, *  from useraccount where email like '%satya.%'
+
